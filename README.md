@@ -36,13 +36,13 @@ Se collegate l'alimentazione alla 5V (tagliando un cavetto USB e collegando il f
 | resistenza 4  | 1 kOhm    |    1  |
 
 ## Come si monta il kit?
-<img src="./img/saldatore.jpg" width="50"/>
+<img src="./img/saldatore.jpg" width="200"/>
 
 Il kit è pronto per essere saldato, ti servirà un saldatore e dello stagno. Se non li hai ricevuti per regalo puoi provare a chiederli in prestito a qualcuno oppure venire al Fablab.
 
 Se proprio non c'è nessuno che ti possa aiutare con le prime saldature puoi provare a cercare dei tutorial su youtube, ma qualcuno a fianco è più piacevole oltre che più sicuro.
 
-![finito](./img/555_complete.jpg?s=100)
+![finito](./img/555_complete.jpg)
 
 ### Saldare è l'unica possibilità?
 
