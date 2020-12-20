@@ -46,7 +46,7 @@ Se proprio non c'è nessuno che ti possa aiutare con le prime saldature puoi pro
 
 ### Saldare è l'unica possibilità?
 
-Certo che no. Se hai intenzione di studiare il circuito cambiando componenti o valori delle resistenze è più facile usare una breadboard, la trovi in qualunque negozio di elettronica.
+Per collegare i componenti alla pcb, si. Se hai intenzione di studiare il circuito cambiando componenti o valori delle resistenze è più facile usare una breadboard, la trovi in qualunque negozio di elettronica.
 ![breadboard](./img/breadboard.jpg)
 
 
